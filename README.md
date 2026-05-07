@@ -26,6 +26,8 @@ Tools for version control of Oracle PL/SQL code.
 - Git4PL — early tool used during migration from legacy storage to Git
 - Git4PL2 — production-ready version deployed on developer machines in enterprise environment
 
+https://github.com/dbobylev/Git4Pl2
+
 > Helped standardize version control workflows for database developers
 
 ---
